@@ -1,2 +1,8 @@
 helllllo
 hhhhhhhh
+def function(user):
+    s=user
+    if s=="woohhhh"
+
+user=input("enter the you name")  
+function(user)  
